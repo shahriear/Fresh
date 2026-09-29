@@ -1,0 +1,36 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+a{
+  text-decoration: none;
+  display: inline-block;
+}
+ul ol{
+  list-style: none;
+}
+ul{
+  display: flex;
+  gap: 59px;
+}
+#main_manu{
+  padding: 52px 54px 66px;
+}
+.container{
+  width: 1320px;
+  margin: 0 auto;
+}
+.row{
+  display: flex;
+  align-items: center;
+}
+.logo{
+  width: 20%;
+}
+.manu{
+  width:50%;
+}
+.loging{
+  width: 30%;
+}
